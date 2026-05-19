@@ -1,0 +1,501 @@
+Age,Income,Satisfaction_Score,Wait_Time_Minutes,Purchase_Count,Gender,Education_Level
+56,81832,1,8.66,3,Female,High School
+69,65486,7,10.87,8,Other,Bachelor
+46,27209,8,1.0,8,Female,High School
+32,42736,3,10.56,5,Female,Master
+60,69003,6,3.74,8,Female,Master
+25,39384,2,5.09,5,Female,High School
+38,56657,7,19.52,1,Male,Master
+56,61619,8,0.09,3,Male,High School
+36,36096,6,8.88,5,Other,High School
+40,49107,6,9.13,4,Female,High School
+28,1380,5,5.05,6,Female,Bachelor
+28,34634,8,2.71,5,Other,Bachelor
+41,46211,1,2.67,5,Female,Master
+53,31283,10,21.52,4,Female,Bachelor
+57,74486,4,5.83,9,Female,Master
+41,28547,4,4.02,6,Female,High School
+20,43399,3,5.96,7,Male,Master
+39,51961,3,11.07,3,Female,High School
+19,71619,4,1.58,2,Female,High School
+41,28462,1,5.97,3,Male,High School
+61,67447,2,8.86,2,Female,High School
+47,50153,9,29.68,7,Male,Bachelor
+55,35277,10,2.91,2,Male,Master
+19,56931,2,4.45,5,Male,High School
+38,52985,5,4.77,5,Male,Master
+50,40996,9,9.3,7,Female,Bachelor
+29,51047,9,4.41,5,Female,Master
+39,44220,8,7.63,6,Female,High School
+61,51702,1,15.22,7,Male,Bachelor
+42,59931,1,12.22,3,Male,PhD
+66,73790,9,5.91,6,Male,Bachelor
+44,31432,8,19.97,8,Female,Bachelor
+59,81995,10,8.17,3,Male,High School
+45,20718,9,7.76,6,Female,High School
+33,47723,7,0.35,5,Male,Bachelor
+32,58824,3,43.19,3,Female,Master
+64,54214,3,1.31,4,Male,High School
+68,40659,2,2.63,6,Male,Bachelor
+61,46878,5,0.53,6,Female,Bachelor
+69,42604,3,10.22,7,Male,Bachelor
+20,41159,6,2.55,6,Male,Bachelor
+54,62744,2,1.98,5,Female,Master
+68,55355,3,0.93,2,Female,Bachelor
+24,39606,5,1.09,5,Female,Master
+38,63493,1,8.79,9,Male,High School
+26,54609,1,11.65,3,Male,High School
+56,62192,10,5.06,9,Male,High School
+35,59444,9,6.54,2,Male,High School
+21,37565,7,11.58,1,Female,High School
+42,41597,1,0.18,4,Female,High School
+31,61209,8,3.9,3,Male,Master
+67,59155,3,36.16,4,Female,High School
+26,49686,8,8.68,5,Male,Master
+43,51759,5,2.93,1,Female,High School
+19,69164,1,7.38,3,Male,PhD
+37,41126,7,4.2,5,Male,Master
+45,58206,5,7.6,3,Female,High School
+64,46967,6,1.34,12,Female,Master
+24,46734,6,1.42,2,Female,Bachelor
+61,66481,8,1.55,3,Male,Master
+25,62381,9,28.1,4,Male,Bachelor
+64,62202,2,13.2,9,Female,Bachelor
+52,69582,9,1.77,5,Male,Master
+31,50315,10,2.09,3,Female,Bachelor
+34,60229,9,13.12,3,Male,High School
+53,45345,10,1.7,4,Female,Master
+67,54862,10,2.67,4,Female,Bachelor
+57,48047,7,33.06,7,Male,Bachelor
+21,51454,1,2.95,6,Female,High School
+19,58927,7,10.84,3,Female,Bachelor
+23,37726,10,38.46,6,Male,PhD
+59,81385,5,4.69,6,Other,High School
+21,34909,6,0.18,4,Female,Bachelor
+46,31787,10,2.8,7,Male,Bachelor
+35,67371,7,17.77,4,Male,Master
+43,61874,5,20.0,7,Male,Bachelor
+61,59361,7,14.63,3,Female,Bachelor
+51,59425,9,1.2,4,Female,PhD
+27,49816,3,15.87,7,Female,Bachelor
+53,36541,8,25.09,8,Other,High School
+31,51137,2,9.18,2,Female,High School
+48,39842,7,28.28,9,Female,Bachelor
+65,64626,2,17.54,6,Male,High School
+32,47794,4,11.0,4,Female,High School
+25,37617,7,8.61,7,Male,Master
+31,45179,3,4.29,2,Female,High School
+40,56193,2,1.74,2,Male,Master
+57,41544,10,9.29,3,Male,High School
+38,37666,7,3.83,5,Male,Master
+33,53655,1,20.13,7,Male,Master
+62,53674,8,50.11,4,Female,High School
+35,42395,3,13.96,4,Female,Bachelor
+64,42934,2,0.95,5,Female,High School
+41,53480,3,3.41,5,Female,Master
+43,28278,5,1.16,4,Female,Master
+42,28888,8,10.51,5,Male,Bachelor
+62,39223,10,14.49,6,Male,Bachelor
+58,46798,7,25.99,5,Female,Bachelor
+46,54663,7,5.77,7,Female,Master
+32,72130,7,23.16,8,Male,Bachelor
+62,62864,8,21.03,4,Male,High School
+18,47600,1,3.82,5,Male,Bachelor
+42,49714,4,20.32,6,Female,High School
+24,34962,6,4.71,9,Male,Master
+26,49722,9,3.52,6,Female,High School
+41,45670,2,10.47,0,Female,Bachelor
+18,54840,1,3.98,4,Male,High School
+61,37591,10,9.95,2,Other,High School
+25,57790,2,9.41,6,Female,Bachelor
+41,72991,7,8.29,9,Female,PhD
+28,48368,3,4.79,0,Female,Master
+68,56025,10,7.95,3,Female,High School
+34,60352,2,9.08,0,Female,High School
+25,43981,7,7.89,8,Male,Master
+52,53361,2,5.88,2,Male,Bachelor
+52,50188,3,0.15,4,Male,High School
+50,51465,7,8.84,4,Male,Master
+22,38404,4,1.84,5,Male,Master
+59,50367,1,10.29,4,Male,PhD
+56,57469,5,14.24,3,Male,PhD
+58,71767,9,6.94,2,Female,Master
+45,64389,8,7.82,8,Female,High School
+24,82297,9,30.26,4,Other,High School
+26,38489,10,18.78,5,Female,Bachelor
+25,63084,9,24.56,5,Female,Bachelor
+29,52750,7,16.81,7,Female,Bachelor
+51,82847,4,1.15,5,Male,Bachelor
+50,37875,5,1.61,8,Male,Bachelor
+65,37404,1,7.48,5,Other,Bachelor
+40,41009,1,2.82,4,Female,High School
+41,18141,3,6.48,6,Female,High School
+54,42113,8,5.01,5,Male,Bachelor
+52,38613,2,7.97,1,Male,Master
+61,52255,4,13.74,7,Female,High School
+57,55126,2,12.57,4,Female,Bachelor
+39,78142,5,7.37,4,Male,Master
+44,64256,9,17.28,4,Male,Bachelor
+52,41346,1,5.64,6,Female,High School
+18,36523,5,22.7,6,Female,Bachelor
+52,57378,9,0.74,4,Male,High School
+54,30196,1,30.94,5,Female,PhD
+64,77471,9,10.63,4,Male,High School
+31,67691,8,4.78,4,Male,Bachelor
+20,42962,4,2.2,8,Female,High School
+18,24302,10,6.52,4,Male,Bachelor
+22,70308,5,2.16,7,Female,Bachelor
+43,48281,5,1.82,7,Female,High School
+31,68567,6,9.61,9,Female,Bachelor
+56,26083,7,7.4,6,Male,High School
+44,41009,8,11.09,5,Male,Bachelor
+26,50078,8,26.54,10,Male,Bachelor
+32,50704,2,7.6,8,Female,Bachelor
+32,43249,9,8.7,5,Female,Master
+43,59342,7,0.94,6,Female,Bachelor
+59,33985,4,12.65,1,Female,Bachelor
+30,47864,4,5.11,10,Other,High School
+68,51804,8,37.6,10,Female,Bachelor
+49,57716,4,17.33,3,Male,Master
+56,60674,6,7.39,6,Male,High School
+66,33130,5,1.32,8,Female,Master
+69,26988,3,19.62,1,Male,High School
+49,69165,10,16.08,7,Male,Master
+21,54984,2,2.04,6,Female,High School
+47,38772,9,3.5,5,Female,Master
+54,73267,10,15.77,5,Male,Bachelor
+40,51735,9,2.05,8,Female,High School
+56,67689,1,24.98,2,Female,High School
+62,51012,10,5.53,5,Female,Bachelor
+32,80911,3,0.91,5,Male,PhD
+60,76330,8,16.91,3,Male,High School
+46,46265,6,4.68,5,Female,High School
+53,64573,5,7.48,4,Female,Bachelor
+30,59680,5,1.19,3,Female,Bachelor
+49,70529,6,0.03,8,Female,Bachelor
+24,35526,7,10.16,4,Male,Bachelor
+68,60290,1,7.24,4,Male,High School
+39,65876,9,9.0,2,Female,PhD
+45,23618,3,15.79,5,Male,Bachelor
+19,32251,4,10.4,6,Male,High School
+59,19411,10,1.92,4,Female,Master
+62,45958,1,4.47,4,Male,Bachelor
+23,60763,10,23.63,1,Male,Bachelor
+45,72535,3,14.69,3,Male,Bachelor
+45,51111,2,8.13,5,Male,High School
+61,74429,2,2.95,4,Male,Bachelor
+61,29298,1,3.6,5,Female,Master
+37,24449,8,13.17,7,Female,High School
+47,49166,3,19.05,8,Male,Bachelor
+28,55760,3,11.13,4,Female,Master
+45,49509,6,16.58,6,Male,PhD
+42,18988,8,14.55,2,Female,Bachelor
+56,48663,9,1.62,7,Female,Bachelor
+50,30432,9,5.52,3,Female,Bachelor
+18,60045,4,1.66,9,Female,PhD
+44,55498,5,2.68,3,Male,Master
+69,35901,2,20.35,5,Male,High School
+30,42291,9,6.4,3,Female,Bachelor
+58,34111,8,7.66,7,Male,Bachelor
+20,49059,3,1.97,3,Male,Master
+56,64327,9,3.74,6,Female,Bachelor
+23,35214,3,2.62,6,Female,Bachelor
+25,57560,9,2.31,3,Female,PhD
+44,42046,2,10.16,2,Male,High School
+26,38106,10,2.97,4,Female,High School
+54,48394,9,10.0,8,Male,Bachelor
+50,34471,8,0.6,5,Male,Bachelor
+68,41695,9,1.53,10,Female,High School
+59,32031,5,3.21,4,Male,High School
+61,79470,2,9.09,1,Male,Bachelor
+41,50528,8,11.27,4,Female,Master
+32,39504,6,5.85,7,Male,Bachelor
+49,53209,8,5.9,7,Male,Bachelor
+49,48315,5,12.89,6,Male,High School
+41,46685,10,0.16,7,Female,Master
+58,59212,2,4.17,7,Female,Master
+69,61362,6,17.08,2,Female,Bachelor
+66,42042,5,9.24,2,Female,High School
+66,41362,5,4.11,9,Female,High School
+69,45874,1,23.59,1,Female,High School
+29,15471,2,14.81,5,Male,Bachelor
+56,27272,8,3.08,7,Male,Master
+19,70503,3,10.36,3,Female,Master
+20,74674,10,9.06,8,Male,Bachelor
+66,46264,3,5.13,6,Other,Master
+54,58648,8,4.57,7,Female,PhD
+66,54668,8,4.21,5,Female,High School
+34,96183,2,9.6,3,Male,Bachelor
+66,66793,8,5.84,9,Male,PhD
+19,48081,1,17.83,5,Male,Bachelor
+19,35666,6,11.07,8,Female,PhD
+45,25903,8,0.72,12,Female,PhD
+40,53051,3,10.22,5,Other,Bachelor
+54,38654,8,3.16,6,Male,Master
+49,28666,1,8.98,2,Male,Master
+50,40301,9,11.4,2,Male,Bachelor
+18,33776,9,2.62,8,Female,Bachelor
+36,75307,5,6.1,3,Female,High School
+19,63224,10,2.11,5,Male,Bachelor
+61,49880,4,0.54,3,Female,Bachelor
+43,72199,6,4.76,5,Male,High School
+49,51160,7,4.51,3,Female,High School
+23,37080,5,53.99,4,Female,High School
+49,72846,10,5.91,5,Male,Master
+21,58083,9,4.06,6,Male,PhD
+28,34441,3,8.69,6,Other,PhD
+34,47144,7,0.93,8,Female,Bachelor
+55,36865,10,32.61,7,Female,Master
+41,29258,10,10.08,6,Female,Master
+22,63892,5,14.06,8,Male,Bachelor
+69,78641,7,1.87,9,Female,Bachelor
+51,29021,2,5.27,6,Female,High School
+23,58444,4,5.49,7,Female,PhD
+39,40240,2,17.25,8,Male,Bachelor
+28,42693,7,0.01,2,Male,Bachelor
+65,41114,2,3.58,3,Male,Bachelor
+33,37040,1,39.76,2,Male,Bachelor
+50,50727,9,6.44,4,Male,High School
+26,37535,1,4.82,7,Male,Bachelor
+23,54056,8,1.28,7,Male,High School
+33,49246,2,36.56,9,Male,Master
+46,46415,8,0.2,6,Female,Bachelor
+20,36386,3,13.36,2,Male,Bachelor
+37,41348,6,14.64,4,Male,Bachelor
+53,61330,3,2.79,9,Male,Bachelor
+36,57513,7,11.13,3,Male,Bachelor
+43,35336,10,0.98,3,Female,Bachelor
+20,51489,9,2.97,9,Male,Master
+36,61270,2,15.51,3,Female,Master
+37,24958,5,20.0,7,Other,Master
+49,58150,6,9.38,7,Female,High School
+24,40060,4,7.07,3,Female,Bachelor
+69,58558,4,1.74,4,Female,PhD
+58,38551,4,0.65,1,Female,Bachelor
+50,22926,2,1.25,3,Male,High School
+57,25586,4,2.58,5,Male,Bachelor
+56,50721,1,4.18,5,Female,High School
+35,53895,6,4.8,6,Male,High School
+57,36435,1,4.25,1,Male,PhD
+18,59578,10,2.73,6,Female,Bachelor
+28,25077,6,7.13,6,Female,High School
+45,49008,1,17.45,1,Male,PhD
+42,31834,6,3.28,3,Female,PhD
+67,40222,10,28.54,6,Male,Bachelor
+40,50710,8,20.66,8,Female,High School
+48,37093,2,1.76,8,Male,Master
+47,44231,2,15.43,8,Male,Master
+59,65094,4,8.55,8,Female,Bachelor
+52,41346,3,8.36,2,Female,Master
+24,62535,4,4.96,6,Female,Bachelor
+33,33054,7,6.95,4,Male,High School
+43,57947,1,5.06,8,Male,Bachelor
+65,71623,6,7.76,11,Female,Bachelor
+69,12925,3,9.89,2,Male,Master
+66,38046,10,11.22,5,Male,Bachelor
+19,58656,7,7.6,10,Male,High School
+18,46954,10,12.78,4,Female,Bachelor
+65,55567,2,1.52,8,Other,Bachelor
+29,40940,2,2.38,4,Other,Bachelor
+22,51298,4,17.08,3,Female,Bachelor
+54,47664,1,3.89,6,Male,Bachelor
+49,67516,3,0.23,7,Male,Master
+26,53816,9,1.67,4,Female,High School
+58,55064,7,2.53,7,Male,Bachelor
+52,43821,7,31.54,4,Other,Master
+36,42685,4,8.51,3,Male,Bachelor
+65,43511,2,26.99,4,Other,Bachelor
+33,55916,4,8.56,6,Female,PhD
+20,43685,6,6.53,6,Female,High School
+37,54346,3,3.76,8,Male,High School
+41,81131,1,9.32,7,Male,Bachelor
+50,63066,8,1.5,2,Male,High School
+41,45109,5,22.85,6,Male,PhD
+69,68018,5,17.68,4,Male,High School
+28,43878,4,3.82,2,Female,Master
+66,19428,6,30.53,9,Male,Master
+25,34878,3,17.44,5,Female,High School
+53,21938,9,10.98,3,Female,Bachelor
+55,44727,5,1.3,2,Male,High School
+57,50276,3,6.51,6,Other,Bachelor
+37,75146,1,7.05,3,Male,High School
+52,54903,10,2.65,6,Male,PhD
+65,46713,6,0.83,5,Female,PhD
+42,62441,2,14.99,2,Female,High School
+52,16832,3,1.3,7,Male,High School
+42,53534,1,9.02,6,Male,Master
+46,61562,9,27.56,5,Female,High School
+35,27821,8,20.88,8,Male,Master
+63,67156,2,3.25,3,Female,Bachelor
+35,55077,8,19.07,5,Other,Bachelor
+19,43770,9,0.0,5,Other,Master
+52,59491,1,0.18,4,Male,Bachelor
+33,84060,5,9.23,3,Male,PhD
+58,52727,8,4.54,3,Male,PhD
+53,53723,2,4.89,5,Male,High School
+50,43109,4,8.31,5,Male,High School
+21,37252,7,2.13,6,Male,PhD
+50,62455,3,2.38,6,Other,PhD
+31,37158,5,6.63,6,Other,High School
+38,51073,8,14.03,6,Male,Master
+65,42835,10,9.66,7,Male,Bachelor
+37,57184,3,3.53,2,Male,High School
+25,55004,4,5.63,5,Male,Master
+24,65563,9,1.87,3,Female,High School
+20,42349,7,0.78,1,Female,PhD
+34,45951,1,15.26,8,Female,High School
+50,35318,4,3.08,0,Female,Bachelor
+65,43335,4,1.96,4,Female,High School
+29,55659,9,11.76,3,Female,Bachelor
+68,61354,6,9.62,3,Male,Bachelor
+39,36167,9,10.03,2,Female,High School
+39,63044,6,2.6,3,Female,Bachelor
+63,70334,6,2.65,8,Male,Bachelor
+47,56201,5,2.49,6,Male,High School
+55,78151,5,1.91,4,Male,Master
+55,38393,2,10.66,6,Other,Bachelor
+62,31330,8,18.84,5,Male,Bachelor
+68,23319,8,12.89,1,Male,Bachelor
+25,72440,1,15.71,3,Male,Bachelor
+44,59815,8,5.19,3,Female,High School
+44,49166,5,10.62,3,Male,Bachelor
+51,54199,2,4.37,9,Other,Bachelor
+38,33117,2,7.46,2,Female,Master
+47,86686,6,6.57,3,Female,Master
+50,51938,9,1.95,5,Female,Bachelor
+45,51640,1,4.9,4,Male,High School
+64,60886,6,33.19,3,Male,High School
+50,57215,9,2.86,3,Female,High School
+22,53358,8,1.44,0,Male,High School
+65,38142,6,5.42,2,Male,Bachelor
+36,57072,3,15.62,7,Female,High School
+21,78230,8,8.73,4,Male,High School
+52,70181,9,11.42,3,Other,High School
+66,73897,1,2.1,11,Male,High School
+34,42331,9,9.65,2,Female,High School
+61,35155,6,3.91,6,Female,High School
+45,48113,6,17.98,11,Female,Bachelor
+47,50835,4,9.92,3,Male,Bachelor
+46,66412,1,2.22,5,Female,High School
+63,24613,10,0.67,6,Female,Bachelor
+23,72943,8,0.44,4,Female,Bachelor
+52,47629,2,4.64,3,Male,High School
+58,43596,1,3.09,10,Female,High School
+54,34818,2,10.39,2,Female,Bachelor
+41,25177,1,6.92,4,Male,Bachelor
+46,62347,1,3.09,7,Other,High School
+66,51099,9,1.62,6,Male,High School
+63,30650,1,1.36,7,Female,Master
+48,30573,4,20.0,5,Female,High School
+52,44963,10,2.79,7,Female,High School
+50,75035,6,10.55,1,Female,Master
+69,46106,7,16.64,6,Other,Master
+38,27452,2,9.52,5,Male,Bachelor
+49,46313,6,19.63,15,Male,Bachelor
+40,45909,7,4.98,6,Male,High School
+50,9546,10,31.29,3,Female,High School
+20,49185,10,1.43,2,Female,Bachelor
+35,46535,2,1.08,5,Male,High School
+42,60443,2,10.75,7,Male,Bachelor
+59,77734,10,28.62,3,Male,PhD
+48,66898,7,16.55,3,Female,PhD
+20,45966,1,0.79,4,Male,High School
+57,33402,8,3.28,2,Male,Bachelor
+63,88600,3,26.64,3,Female,Bachelor
+41,50888,6,2.92,5,Female,Master
+67,50208,9,15.19,7,Female,High School
+49,49638,6,17.44,5,Female,High School
+64,52971,9,6.84,7,Male,High School
+39,47834,7,4.88,2,Female,Bachelor
+40,41395,9,5.98,6,Female,Bachelor
+19,41797,2,2.57,4,Other,Master
+44,49508,8,22.02,2,Male,Bachelor
+59,41848,8,5.99,6,Male,High School
+19,39307,2,21.41,3,Male,Bachelor
+43,51596,4,1.12,3,Male,High School
+34,46175,7,44.46,4,Female,Master
+57,72559,4,5.86,4,Male,PhD
+50,10235,4,0.49,5,Female,PhD
+26,66372,6,0.39,4,Male,Master
+60,68691,10,13.71,6,Male,High School
+65,18899,6,10.76,4,Female,High School
+56,44859,10,16.2,7,Male,Bachelor
+46,44428,3,1.11,9,Male,PhD
+59,28887,9,0.36,3,Female,High School
+43,38332,10,7.1,4,Female,High School
+52,33341,2,4.9,3,Male,Master
+67,76284,6,6.2,4,Other,High School
+42,64035,7,47.78,5,Female,Bachelor
+41,69073,9,35.32,2,Female,Bachelor
+30,60825,3,28.53,5,Male,High School
+24,33064,10,15.32,10,Male,High School
+53,42132,3,4.38,5,Male,Master
+62,57340,7,5.31,5,Male,Bachelor
+37,31668,4,7.98,7,Male,PhD
+18,60694,8,17.75,5,Other,Bachelor
+25,46395,7,0.71,7,Female,High School
+63,44377,5,5.52,3,Male,Master
+33,60664,7,0.86,3,Female,Bachelor
+31,56663,3,7.23,6,Male,High School
+29,44585,2,22.92,4,Female,Master
+68,67389,6,15.25,4,Female,High School
+40,33784,2,2.59,2,Female,High School
+32,59239,3,37.29,2,Other,High School
+45,58896,6,11.01,3,Male,Bachelor
+51,45356,5,0.1,4,Female,Bachelor
+19,54891,8,2.95,6,Other,Bachelor
+49,31233,9,3.02,4,Female,Master
+40,63860,3,0.72,5,Female,PhD
+39,47226,10,32.15,4,Other,High School
+68,42159,3,6.51,5,Male,High School
+42,65735,3,22.62,8,Other,High School
+39,39434,6,3.89,4,Male,High School
+39,28873,1,1.34,2,Female,Bachelor
+66,26650,7,6.43,2,Female,Master
+69,59090,1,1.21,3,Male,Master
+59,30793,5,6.66,6,Female,High School
+23,76321,10,25.29,4,Male,Bachelor
+32,18771,8,7.36,3,Other,Bachelor
+60,75446,4,9.58,4,Female,High School
+54,53165,5,1.7,3,Female,Bachelor
+50,48549,4,0.45,8,Female,PhD
+25,41826,4,1.17,4,Female,Bachelor
+61,55987,8,9.13,8,Male,Master
+61,49435,2,1.0,4,Male,Bachelor
+22,66549,1,4.72,4,Female,High School
+56,51713,3,7.99,1,Male,Bachelor
+21,52254,9,4.92,3,Male,High School
+23,44545,4,1.79,8,Male,High School
+62,49145,10,3.2,6,Male,Bachelor
+49,54617,5,26.36,6,Female,Master
+69,24347,2,11.27,9,Female,Bachelor
+47,29777,4,6.85,4,Female,Bachelor
+64,61148,2,0.13,3,Male,Master
+52,52562,2,48.82,8,Male,Master
+57,47240,4,11.13,3,Male,Master
+69,50276,6,3.81,2,Female,High School
+33,55213,7,21.14,2,Female,PhD
+30,41903,10,2.99,7,Other,High School
+67,38325,3,7.85,5,Female,Bachelor
+59,52937,3,10.11,6,Female,High School
+47,35324,10,2.5,5,Female,Bachelor
+36,56123,6,38.35,9,Other,High School
+34,24461,3,13.79,4,Female,Bachelor
+36,65437,2,8.16,5,Male,Bachelor
+45,57088,8,1.99,7,Female,High School
+43,53840,5,0.55,3,Female,Bachelor
+54,64740,1,3.86,8,Female,Master
+43,74982,3,13.99,5,Male,PhD
+40,65215,10,3.14,5,Female,High School
+26,22386,8,7.76,2,Other,Master
+29,30806,4,13.02,8,Male,Bachelor
+18,40627,7,1.14,9,Female,Bachelor
+18,50391,10,11.56,3,Male,High School
+64,57764,2,0.96,4,Male,Bachelor
+51,39113,7,33.56,4,Male,PhD
+49,52801,5,6.7,4,Male,Bachelor
+65,38669,5,1.63,9,Female,Bachelor
+42,40827,6,4.19,5,Male,Bachelor
+57,28900,9,5.33,6,Male,High School
+62,36151,6,14.2,7,Male,Master
+18,29724,8,13.6,11,Male,Master
