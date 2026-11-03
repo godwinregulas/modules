@@ -1,0 +1,7 @@
+ID,Age,Salary,Gender,Experience
+1,22.0,30000.0,Male,1.0
+2,25.0,35000.0,Female,3.0
+3,,40000.0,Male,4.0
+4,28.0,,Female,5.0
+5,30.0,45000.0,,
+6,,,Male,4.0
